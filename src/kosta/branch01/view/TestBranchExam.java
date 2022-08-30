@@ -7,4 +7,8 @@ public class TestBranchExam {
     public void test() {
     	
     }
+    
+    public void test02() {
+    	
+    }
 }
