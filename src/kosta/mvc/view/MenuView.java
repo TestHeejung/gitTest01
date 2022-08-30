@@ -5,4 +5,8 @@ public class MenuView {
 	public void menuChoice() {
 		
 	}
+	
+	public void test() {
+		
+	}
 }
