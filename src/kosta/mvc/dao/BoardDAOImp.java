@@ -8,4 +8,18 @@ public class BoardDAOImp implements BoardDao {
 
 	}
 
+	@Override
+	public void insert() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+
 }
